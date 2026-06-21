@@ -56,6 +56,7 @@ Simon-Game/
 ---
 
 ## Game Logic
+<img width="1372" height="733" alt="Screenshot 2026-06-22 at 12 40 49 AM" src="https://github.com/user-attachments/assets/0bcc8621-632a-46ae-b974-d45269a02d2a" />
 
 ### 1. Start the Game
 
@@ -103,10 +104,4 @@ Simon-Game/
 
 ---
 
-## Author
 
-**Sai Teja Sree**
-
-B.Tech in Mathematics and Computing, NIT Warangal
-
----
